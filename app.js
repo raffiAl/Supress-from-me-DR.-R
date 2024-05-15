@@ -39,6 +39,7 @@ removeBtn.addEventListener("click", () => {
 
 const gambar = document.createElement("img");
 gambar.setAttribute("src", "https://ichef.bbci.co.uk/ace/ws/640/cpsprodpb/2DE0/production/_106544711_e4922507-673a-4f2f-b91d-3479994a870b.jpg");
+gambar.setAttribute("width", "200px").setAttribute("height", "200px");
 let paraghrap;
 
 content.style.display = "flex";
