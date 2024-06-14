@@ -46,3 +46,5 @@ let paraghrap;
 content.style.display = "flex";
 content.style.flexDirection = "column";
 content.style.gap = "10px";
+
+console.log('Halloo')
